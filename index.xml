@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Study Blog</title>
+    <link>https://AishwaryaSree.github.io/</link>
+    <description>Recent content on My Study Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://AishwaryaSree.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asciinema</title>
+      <link>https://AishwaryaSree.github.io/posts/asciinema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/asciinema/</guid>
+      <description>Asciinema is terminal recorder which helps us to share our commands or errors easier. We can even copy paste the commands from the video which makes it much esier to run same commands in different computers.
+We need to create an account in asciinema.org and install it in our computer and we are good to record. We can type the command asciinema rec in order to start recording and type the command &amp;ldquo;exit&amp;rdquo; to stop recording.</description>
+    </item>
+    
+    <item>
+      <title>creating a site using hugo and github pages</title>
+      <link>https://AishwaryaSree.github.io/posts/staticsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/staticsite/</guid>
+      <description>Here is how I created a static site using hugo thems and github pages. first i created two github repositories one for storing actual data and other for hosting the site. 2. Cloned a hugo theme to the storing repository. 3. Created some content for the page. 4. Added the hosting repository as a submodule. 5. Generated static files and stored it in public folder. 6. Commited the changes to the repository</description>
+    </item>
+    
+    <item>
+      <title>Dailyupdate</title>
+      <link>https://AishwaryaSree.github.io/posts/dailyupdate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/dailyupdate/</guid>
+      <description>View my daily progress here. Here you will find on overall idea of what I did.
+15june Installed Ansible and Docker.
+16june Error in commiting to github.
+17june Deploy a docker container with nginx locally.</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://AishwaryaSree.github.io/posts/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/docker/</guid>
+      <description>Installation Used the following documentation to install docker https://docs.docker.com/engine/install/ubuntu/ I also followed this video https://www.youtube.com/watch?v=kkazBPHc4bk in order to make sure that i donot miss any of the steps.
+About Docker is a software platform that simplifies the process of building, running, managing and distributing applications. It does this by virtualizing the operating system of the computer on which it is installed and running.</description>
+    </item>
+    
+    <item>
+      <title>Examplepost</title>
+      <link>https://AishwaryaSree.github.io/posts/examplepost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/examplepost/</guid>
+      <description>This is an example text.</description>
+    </item>
+    
+    <item>
+      <title>Git and github</title>
+      <link>https://AishwaryaSree.github.io/posts/gitandgithub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/gitandgithub/</guid>
+      <description>Git is a software that is used to track changes. Github can be used to store our code and more like webpages and can be used to collaborate.
+Getting started with github Install git or gitbash-for windows. Create an account in github. We can create a repository for storing out code which is also used for collaborating if needed. We can update the code by &amp;ldquo;Push&amp;rdquo; and comminting changes. If necessary we can pull the code for another repository to your computer.</description>
+    </item>
+    
+    <item>
+      <title>Github actions(CI/CD)</title>
+      <link>https://AishwaryaSree.github.io/posts/githubactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/githubactions/</guid>
+      <description>CI- continuous integration CD- continuous deployment. CI/CD is a tool that enables code changes more frequently and reliable. CI/CD is an automation that enables the developers to save time not spending too much time on bugs that enter while merging the code.
+Github actions enable you to include CI/CD workflows directly in Github repository. I prefered Github actions over other sites because its fully integrated into Github without external site. It has also offers you different templests for different type of projects.</description>
+    </item>
+    
+    <item>
+      <title>Githubpages</title>
+      <link>https://AishwaryaSree.github.io/posts/githubpages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/githubpages/</guid>
+      <description>Github pages were the most simple way to create a website. its as simple as creating a repository named same as the uername. https://aishwaryasree.github.io/AishwaryaSree/</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://AishwaryaSree.github.io/posts/myfirstpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/myfirstpost/</guid>
+      <description>Hugo is a framework for building websites. It provides more flexibility and speed. It is more commonly used for static site generation.
+Getting started with Hugo: Install hugo. create a new site. Choose a theme from hugo themes. Add the theme to the site. Create a new post.</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://AishwaryaSree.github.io/posts/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/markdown/</guid>
+      <description>Markdown is a makeup language for html. It is easier to read and understand than html. I was introduced to markdown while using the hugo themes for my site. Markdown is very user friendly and easy to understand than html. I use markdown to write all my posts in this blog.</description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://AishwaryaSree.github.io/posts/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/sample/</guid>
+      <description>test git status.</description>
+    </item>
+    
+    <item>
+      <title>Something</title>
+      <link>https://AishwaryaSree.github.io/posts/something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/something/</guid>
+      <description>something.</description>
+    </item>
+    
+    <item>
+      <title>Try</title>
+      <link>https://AishwaryaSree.github.io/posts/try/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AishwaryaSree.github.io/posts/try/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
