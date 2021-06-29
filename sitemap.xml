@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://AishwaryaSree.github.io/posts/11/</loc>
+  </url><url>
+    <loc>https://AishwaryaSree.github.io/posts/ansibledockernginx/</loc>
+  </url><url>
     <loc>https://AishwaryaSree.github.io/posts/asciinema/</loc>
   </url><url>
     <loc>https://AishwaryaSree.github.io/categories/</loc>
   </url><url>
     <loc>https://AishwaryaSree.github.io/posts/staticsite/</loc>
   </url><url>
-    <loc>https://AishwaryaSree.github.io/posts/dailyupdate/</loc>
-  </url><url>
     <loc>https://AishwaryaSree.github.io/posts/docker/</loc>
-  </url><url>
-    <loc>https://AishwaryaSree.github.io/posts/examplepost/</loc>
   </url><url>
     <loc>https://AishwaryaSree.github.io/posts/gitandgithub/</loc>
   </url><url>
@@ -28,12 +28,6 @@
   </url><url>
     <loc>https://AishwaryaSree.github.io/posts/</loc>
   </url><url>
-    <loc>https://AishwaryaSree.github.io/posts/sample/</loc>
-  </url><url>
-    <loc>https://AishwaryaSree.github.io/posts/something/</loc>
-  </url><url>
     <loc>https://AishwaryaSree.github.io/tags/</loc>
-  </url><url>
-    <loc>https://AishwaryaSree.github.io/posts/try/</loc>
   </url>
 </urlset>

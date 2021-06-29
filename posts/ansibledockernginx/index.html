@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<title>Docker | My Study Blog</title>
+<title>Ansible,docker,nginx | My Study Blog</title>
 <meta charset="utf-8">
 <meta name="generator" content="Hugo 0.83.1" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://AishwaryaSree.github.io/css/index.css">
-<link rel="canonical" href="https://AishwaryaSree.github.io/posts/docker/">
+<link rel="canonical" href="https://AishwaryaSree.github.io/posts/ansibledockernginx/">
 <link rel="alternate" type="application/rss+xml" href="" title="My Study Blog">
 
 <header>
@@ -17,17 +17,27 @@
 
 <article>
   <header>
-    <h1>Docker</h1>
+    <h1>Ansible,docker,nginx</h1>
     
   </header>
   <h1 id="docker">DOCKER</h1>
-<h1 id="about">About</h1>
 <p>Docker is a software platform that simplifies the process of building, running, managing and distributing applications. It does this by virtualizing the operating system of the computer on which it is installed and running.</p>
-<ol>
-<li>This documentation is helpful to install docker
+<ul>
+<li>This documentation is helpful to install docker <!-- raw HTML omitted -->
 <a href="https://docs.docker.com/engine/install/ubuntu/">https://docs.docker.com/engine/install/ubuntu/</a></li>
 <li>I also followed this video <a href="https://www.youtube.com/watch?v=kkazBPHc4bk">https://www.youtube.com/watch?v=kkazBPHc4bk</a> in order to make sure that i donot miss any of the steps.</li>
-</ol>
+</ul>
+<blockquote>
+<p>sudo group docker</p>
+<p>sudo groupadd docker</p>
+<p>sudo usermod -aG docker $USER</p>
+</blockquote>
+<p>Creating a docker nginx image and hosting it locally.</p>
+<blockquote>
+<p>docker pull nginx:latest</p>
+<p>docker run -p 8000:80 nginx</p>
+</blockquote>
+<p><a href="https://asciinema.org/a/WOY1uXWhqthkDhCwTopEhXvq5"><img src="https://asciinema.org/a/WOY1uXWhqthkDhCwTopEhXvq5.svg" alt="asciicast"></a></p>
 
 </article>
 
